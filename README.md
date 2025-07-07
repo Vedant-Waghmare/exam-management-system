@@ -16,13 +16,21 @@ The project consists of three main components:
 3. Database Management Module – Manages question storage and retrieval through MySQL integration.
 
 Key Features:
+
 ✅ Role-based authentication – Separate login for teachers and students with credential validation.
+
 ✅ Question Management – Teachers can add, remove, and view questions dynamically.
+
 ✅ Exam Interface – Students can attempt multiple-choice questions and receive instant feedback.
+
 ✅ Database Integration – Questions and answers are stored in a MySQL database for persistence.
+
 ✅ Menu-Driven Interface – Simplified console-based interaction for seamless navigation.
 
 Impact & Learning:
+
 🔹 Gained hands-on experience with Java, database management, and user authentication.
+
 🔹 Improved my understanding of JDBC, SQL queries, and object-oriented programming concepts.
+
 🔹 Collaborating with Ankita Yadav on this project was a truly enriching experience. Working together helped enhance problem-solving approaches and foster a great learning environment. 
